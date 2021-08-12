@@ -1,5 +1,5 @@
 /**
- * By Rowena Shi || 251073629
+ * @author Rowena
  * The class BoardGame represents the board game.
  **/
 
