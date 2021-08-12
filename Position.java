@@ -1,5 +1,5 @@
 /**
- * By Rowena Shi || 251073629
+ * @author Rowena
  * The class Position creates objects that represent a square's position (row and column) in the board game.
  **/
 
