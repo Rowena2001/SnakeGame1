@@ -6,6 +6,10 @@ import java.util.*;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * @author CS1027
+ */
+
 public class PlayGame extends JFrame implements KeyListener {
 	private static final long serialVersionUID = 1;
 
