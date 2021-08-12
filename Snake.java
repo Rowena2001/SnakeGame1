@@ -1,5 +1,5 @@
 /**
- * By Rowena Shi || 251073629
+ * @author Rowena
  * The class Snake stores information about the snake.
  * It contains methods to get and manipulate the snakes's length and position.
  **/
