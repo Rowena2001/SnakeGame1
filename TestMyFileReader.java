@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author CS1027
+ */
+
 public class TestMyFileReader {
 
     public static void main (String[] args) {
